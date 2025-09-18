@@ -56,7 +56,7 @@ def cari_pelanggan():
     id = int(input("Masukkan ID yang dicari: "))
     for p in daftar_pelanggan:
         if p.getID() == id:
-            print(f"Ditemukan → ID: {p.getID()}, Nama: {p.getNama()}, Telepon: {p.getNo_Telephone()}, "f"Alamat: {p.getAlamat()}\n")
+            print(f"Ditemukan ID: {p.getID()}, Nama: {p.getNama()}, Telepon: {p.getNo_Telephone()}, "f"Alamat: {p.getAlamat()}\n")
             return
     print("Pelanggan dengan ID tersebut tidak ditemukan.\n")
 
