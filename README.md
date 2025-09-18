@@ -23,3 +23,47 @@ Dokumentasi Screenshoot
 1. C++
    1. Menambahkan objek baru
    ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/CPP(Menambahkan%20Objek%20baru).png)
+   2. Mencari Objek Berdasarkan ID
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/CPP(Mencari%20Objek%20Berdasrkan%20ID).png)
+   3. Menghapus Objek berdasarkan ID
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/CPP(Menghapus%20Objek%20berdasarkan%20ID).png)
+   4. Menampilkan semua Objek yang ada
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/CPP(menampilkan%20semua%20objek%20yang%20ada).png)
+   5. Mengupdate objek
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/CPP(update%20Objek%20berdasarkan%20ID).png)
+      
+2. Java
+   1. Menambahkan objek baru
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Java%20(Menambahkan%20Objek%20baru).png)
+   2. Mencari Objek Berdasarkan ID
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Java(Mencari%20Objek%20berdasarkan%20ID).png)
+   3. Menghapus Objek berdasarkan ID
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Java(Menghapus%20objek%20berdasarkan%20ID).png)
+   4. Menampilkan semua Objek yang ada
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Java(Menampilkan%20Semua%20Objek%20yang%20Ada).png)
+   5. Mengupdate objek
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Java(mengupdate%20objek%20berdasarkan%20ID).png)
+
+3. Python
+   1. Menambahkan objek baru
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Python%20(Manambahkan%20Objek%20Baru).png)
+   2. Mencari Objek Berdasarkan ID
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Python%20(Mencari%20Objek%20berdasarkan%20ID).png)
+   3. Menghapus Objek berdasarkan ID
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Python%20(Menghapus%20Objek%20berdasarkan%20ID).png)
+   4. Menampilkan semua Objek yang ada
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Python%20(Menampilkan%20Objek%20Yang%20ada).png)
+   5. Mengupdate objek
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/Python(Update%20data%20berdasarkan%20ID).png)
+
+4. PHP
+   1. Menambahkan objek baru
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/PHP(Menambahkan%20Objek%20baru).png)
+   2. Mencari Objek Berdasarkan ID
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/PHP(mencari%20Objek%20berdasarkan%20ID).png)
+   3. Menghapus Objek berdasarkan ID
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/PHP(Menhapus%20Objek).png)
+   4. Menampilkan semua Objek yang ada
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/PHP%20(Menampilkan%20Objek%20yang%20ada).png)
+   5. Mengupdate objek
+      ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/PHP(Update%20objek%20berdasarkan%20ID).png)
