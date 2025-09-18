@@ -17,3 +17,9 @@ Saya akan menjelaskan program sederhana yang dapat mengelola data di sebuah toko
    2. update pelanggan -> untuk update ini pertama harus ke bagian aksi di tampilan semua pelanggan delete dan update. jika ingin update maka klik yang update. ambil ID dari form, jika ada perbaruai yang ingin di perbarui ada foto, no_telephon, alamat dan nama.
    3. hapus pelanggan -> pada bagian aksi piih objek yang ingin di hapus lalu klik delete maka objek akan terhapus dari $_SESSION[daftar_pelanggan]
    4. cari pelanggan -> ambil keyword dari input, pencarian bisa dari ID, nama, dan NO_telephone. lalu akan menampilkan data yang cocok.
+  
+
+Dokumentasi Screenshoot 
+1. C++
+   1. Menambahkan objek baru
+   ![alt text](https://github.com/juliarhm/TP1DPBO2425C2/blob/main/Dokumentasi/CPP(Menambahkan%20Objek%20baru).png)
